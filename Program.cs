@@ -7,9 +7,9 @@ namespace Tarea_2_C__operaciones
         static float n1, n2, respuesta;
 
         static void OPCIONES(){
-            Console.WriteLine("Ingrese un número Entero: ");
+            Console.WriteLine("Ingrese un número: ");
                     n1 = float.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese un número Entero: ");
+                    Console.WriteLine("Ingrese un número: ");
                     n2 = float.Parse(Console.ReadLine());
 
         }
