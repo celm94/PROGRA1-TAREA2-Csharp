@@ -1,0 +1,13 @@
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.exe
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.deps.json
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.runtimeconfig.json
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.runtimeconfig.dev.json
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.dll
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\bin\Debug\netcoreapp3.1\Tarea 2 C# operaciones.pdb
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.csprojAssemblyReference.cache
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.AssemblyInfoInputs.cache
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.AssemblyInfo.cs
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.csproj.CoreCompileInputs.cache
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.dll
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.pdb
+C:\laragon\www\2DO AÑO TAREAS PROGRA\Tarea 2 C# operaciones\obj\Debug\netcoreapp3.1\Tarea 2 C# operaciones.genruntimeconfig.cache
